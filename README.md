@@ -1,4 +1,4 @@
-# WebChat
+# We-Chat
 
 - Developed a real-time web chat application that allows a group of people to interact with each other.
 - Implemented socket.io for real-time, bidirectional, and event-based communication between the browser and the server.
